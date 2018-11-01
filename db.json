@@ -1,0 +1,50 @@
+{
+  "item": [
+    {
+      "id": 1,
+      "nome": "Biscoito",
+      "marca": "Maizena",
+      "valor": 2
+    },
+    {
+      "id": 2,
+      "nome": "Papel Higiênico",
+      "marca": "Neve",
+      "valor": 18
+    },
+    {
+      "id": 3,
+      "nome": "Pizza",
+      "marca": "Sadia",
+      "valor": 10
+    },
+    {
+      "id": 4,
+      "nome": "Iogurte",
+      "marca": "Itambé",
+      "valor": 6
+    }
+  ],
+  "compra": [
+    {
+      "id": 1,
+      "idItem": 2,
+      "quantidade": 6
+    },
+    {
+      "id": 2,
+      "idItem": 4,
+      "quantidade": 3
+    },
+    {
+      "id": 3,
+      "idItem": 1,
+      "quantidade": 6
+    },
+    {
+      "id": 4,
+      "idItem": 3,
+      "quantidade": 5
+    }
+  ]
+}
